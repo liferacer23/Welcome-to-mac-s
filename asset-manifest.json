@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Welcome-to-mac-s/static/css/main.b26c4dd1.chunk.css",
+    "main.js": "/Welcome-to-mac-s/static/js/main.f5f8ee2f.chunk.js",
+    "main.js.map": "/Welcome-to-mac-s/static/js/main.f5f8ee2f.chunk.js.map",
+    "runtime-main.js": "/Welcome-to-mac-s/static/js/runtime-main.5a3c7861.js",
+    "runtime-main.js.map": "/Welcome-to-mac-s/static/js/runtime-main.5a3c7861.js.map",
+    "static/js/2.b6a558a1.chunk.js": "/Welcome-to-mac-s/static/js/2.b6a558a1.chunk.js",
+    "static/js/2.b6a558a1.chunk.js.map": "/Welcome-to-mac-s/static/js/2.b6a558a1.chunk.js.map",
+    "static/js/3.77d8f252.chunk.js": "/Welcome-to-mac-s/static/js/3.77d8f252.chunk.js",
+    "static/js/3.77d8f252.chunk.js.map": "/Welcome-to-mac-s/static/js/3.77d8f252.chunk.js.map",
+    "index.html": "/Welcome-to-mac-s/index.html",
+    "static/css/main.b26c4dd1.chunk.css.map": "/Welcome-to-mac-s/static/css/main.b26c4dd1.chunk.css.map",
+    "static/js/2.b6a558a1.chunk.js.LICENSE.txt": "/Welcome-to-mac-s/static/js/2.b6a558a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a3c7861.js",
+    "static/js/2.b6a558a1.chunk.js",
+    "static/css/main.b26c4dd1.chunk.css",
+    "static/js/main.f5f8ee2f.chunk.js"
+  ]
+}
