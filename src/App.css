@@ -160,14 +160,12 @@
   .card{
 
     min-width: 80%;
-  
-
   }
 
   .desc, .title
   {
-    margin-right: 5px;
-    margin-left: 5px;
+    margin-right: 6px;
+    margin-left: 6px;
   }
   .search-bar
   {
