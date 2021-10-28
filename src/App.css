@@ -114,11 +114,13 @@
   height: 40px;
   justify-content: center;
   margin-top: 20px;
-  background-color: rgb(250, 248, 245);
+  background:linear-gradient(rgba(256,256,256,0.5),rgba(256,256,256,0.5));
   border: none;
   font-family: 'Ubuntu';
   font-size: 20px;
   outline: none;
+  border-radius: 0.5rem 0 0 0.5rem;
+  color: white;
 }
 .search-button
 {
@@ -126,18 +128,19 @@
   width:5%;
   cursor: pointer;
   height: 42px;
-  background-color: rgb(250, 248, 245);
+  background:linear-gradient(rgba(256,256,256,0.5),rgba(256,256,256,0.5));
   margin-top: 20px;
   border: none;
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 0 0.5rem 0.5rem 0;
   
  
 }
 .search-button:hover
 {
-  background-color: rgb(226, 202, 166);
+  background:linear-gradient(rgba(256,256,256,0.6),rgba(256,256,256,0.6));
 }
 
 .image
