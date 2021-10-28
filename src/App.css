@@ -87,8 +87,8 @@
   justify-content: center;
   font-family: 'Ubuntu';
   color: #f0eef5;
-  margin-left: 20px;
-  font-size: 50px;
+
+  width:80%;
   
 }
 .desc
@@ -96,7 +96,7 @@
   display: flex;
   justify-content: center;
   color: #f0eef5;
-  
+  width:80%;
   font-size: 20px;
   
 
@@ -169,27 +169,18 @@
       
   }
 
-  .desc
-  {
-    margin-right: 40px;
-    margin-left: 40px;
-  }
+
 }
-@media (max-width:900px){
+@media (max-width:600px){
   .card{
 
-    min-width: 75%;
+    min-width: 50%;
   }
   .image
   {
     width: 90%;
   }
 
-  .desc
-  {
-    margin-right: 35px;
-    margin-left: 40px;
-  }
   .search-bar
   {
     width: 65%;
@@ -199,36 +190,9 @@
     width: 20%;
   }
 }
-@media (max-width:400px){
-  .card{
 
-    max-width: 80%;
-  }
-  .image
-  {
-    width: 90%;
-  }
 
-  .desc, .title
-  {
-    margin-right: 6px;
-    margin-left: 6px;
-  }
-  .desc
-  {
-    margin-right: 40px;
-    margin-left: 40px;
-  }
-  .search-bar
-  {
-    width: 65%;
-  }
-  .search-button
-  {
-    width: 20%;
-  }
-}
-@media (max-width:400px){
+@media (max-width:500px){
   .card{
 
     min-width: 85%;
@@ -240,11 +204,11 @@
     margin-left: 10px;
     font-size: 30px;
   }
-  .desc
+  .image
   {
-    margin-right: 40px;
-    margin-left: 40px;
+    width: 90%;
   }
+ 
   .search-bar
   {
     width: 65%;
@@ -261,18 +225,13 @@
     
 
   }
-  .v
   .title
   {
     margin-right: 10px;
     margin-left: 10px;
     font-size: 25px;
   }
-  .desc
-  {
-    margin-right: 40px;
-    margin-left: 40px;
-  }
+ 
   .search-bar
   {
     width: 65%;
