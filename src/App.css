@@ -96,8 +96,9 @@
   display: flex;
   justify-content: center;
   color: #f0eef5;
-  margin-left: 20px;
+  
   font-size: 20px;
+  
 
   
 }
@@ -148,30 +149,75 @@
   width: 400px;
   
 }
-
-@media (max-width:1430px) {
+@media (max-width:1400px) {
   .card{
 
-    min-width: 40%;
+    min-width: 50%;
       
   }
 
   .desc
   {
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
   }
 }
-@media (max-width:500px){
+@media (max-width:1380px) {
   .card{
 
-    min-width: 80%;
+    min-width: 60%;
+      
+  }
+
+  .desc
+  {
+    margin-right: 40px;
+    margin-left: 40px;
+  }
+}
+@media (max-width:900px){
+  .card{
+
+    min-width: 75%;
+  }
+  .image
+  {
+    width: 90%;
+  }
+
+  .desc
+  {
+    margin-right: 35px;
+    margin-left: 40px;
+  }
+  .search-bar
+  {
+    width: 65%;
+  }
+  .search-button
+  {
+    width: 20%;
+  }
+}
+@media (max-width:400px){
+  .card{
+
+    max-width: 80%;
+  }
+  .image
+  {
+    width: 90%;
   }
 
   .desc, .title
   {
     margin-right: 6px;
     margin-left: 6px;
+  }
+  .desc
+  {
+    margin-right: 40px;
+    margin-left: 40px;
   }
   .search-bar
   {
@@ -196,8 +242,8 @@
   }
   .desc
   {
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
   }
   .search-bar
   {
@@ -224,8 +270,8 @@
   }
   .desc
   {
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
   }
   .search-bar
   {
