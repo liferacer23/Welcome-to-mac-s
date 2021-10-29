@@ -8,6 +8,7 @@
   background: linear-gradient(to right, #dd1818, #333333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   min-height: 100vh;
   font-family: 'Ubuntu';
+  padding:15px
 }
 .food
 {
@@ -120,6 +121,7 @@
   outline: none;
   border-radius: 0.5rem 0 0 0.5rem;
   color: white;
+  padding:15px;
 }
 .search-button
 {
