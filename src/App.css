@@ -87,20 +87,18 @@
   justify-content: center;
   font-family: 'Ubuntu';
   color: #f0eef5;
-
-  width:80%;
+  width:100%;
   
 }
 .desc
 {
   display: flex;
   justify-content: center;
+  align-items: center;
   color: #f0eef5;
-  width:80%;
+  width:100%;
   font-size: 20px;
-  
 
-  
 }
 .search-form
 {
@@ -156,11 +154,7 @@
       
   }
 
-  .desc
-  {
-    margin-right: 40px;
-    margin-left: 40px;
-  }
+
 }
 @media (max-width:1380px) {
   .card{
@@ -203,6 +197,9 @@
     margin-right: 10px;
     margin-left: 10px;
     font-size: 30px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
   }
   .image
   {
