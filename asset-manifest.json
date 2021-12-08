@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Welcome-to-mac-s/static/css/main.ed772597.chunk.css",
-    "main.js": "/Welcome-to-mac-s/static/js/main.eaa9a13b.chunk.js",
-    "main.js.map": "/Welcome-to-mac-s/static/js/main.eaa9a13b.chunk.js.map",
+    "main.js": "/Welcome-to-mac-s/static/js/main.0e94e80a.chunk.js",
+    "main.js.map": "/Welcome-to-mac-s/static/js/main.0e94e80a.chunk.js.map",
     "runtime-main.js": "/Welcome-to-mac-s/static/js/runtime-main.5a3c7861.js",
     "runtime-main.js.map": "/Welcome-to-mac-s/static/js/runtime-main.5a3c7861.js.map",
     "static/js/2.b6a558a1.chunk.js": "/Welcome-to-mac-s/static/js/2.b6a558a1.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5a3c7861.js",
     "static/js/2.b6a558a1.chunk.js",
     "static/css/main.ed772597.chunk.css",
-    "static/js/main.eaa9a13b.chunk.js"
+    "static/js/main.0e94e80a.chunk.js"
   ]
 }
