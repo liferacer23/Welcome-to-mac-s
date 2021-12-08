@@ -5,9 +5,9 @@ import { BsSearch } from "react-icons/bs";
 
 const App = ()=>
 {
-  const {REACT_APP_API_KEY}=process.env;
-  const ID = REACT_APP_API_KEY;
-  const KEY = "72f6465fc75711f0add62590f1cdff4c";
+  const {REACT_APP_API_KEY,REACT_APP_API_ID}=process.env;
+  const ID = REACT_APP_API_ID;
+  const KEY = REACT_APP_API_KEY;
   const [query,setQuery] = useState("salad");
   const [foods, setFood] = useState([]);
   const [search, setSearch]=useState("");
